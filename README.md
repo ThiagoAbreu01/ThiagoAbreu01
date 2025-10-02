@@ -1,8 +1,8 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+me+chamo+Thiago+Abreu!)](https://git.io/typing-svg)
-### Bem vindo(a) ao meu perfil do GitHub 👋
+### Bem vindo(a) ao meu perfil do GitHub
 
-- 🖥 Sou desenvolvedor a dois anos cursando Analise em desenvovlimento de sistemas.
-- 🚀 Desenvolvedor Mobile Full Stack.
+- Sou desenvolvedor a dois anos cursando Analise em desenvovlimento de sistemas.
+- Desenvolvedor Mobile Full Stack.
 - Tenho 24 anos e moro em Jundiai-SP.
 
 <div>
