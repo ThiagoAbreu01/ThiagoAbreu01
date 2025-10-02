@@ -7,7 +7,7 @@
 
 <div>
 <a href="https://github.com/ThiagoAbreu01">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAbreu01&layout=compact&langs_count=8&theme=dracula&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAbreu01&layout=compact&langs_count=8&theme=dracula&count_private=false" />
 </div>
 
 ### Tecnologias que estudo atualmente:
