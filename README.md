@@ -3,12 +3,12 @@
 
 - 🖥 Sou desenvolvedor a dois anos cursando Analise em desenvovlimento de sistemas.
 - 🚀 Desenvolvedor Mobile Full Stack.
-- Tenho 24 anos e moro em Itupeva-SP.
+- Tenho 24 anos e moro em Jundiai-SP.
 
 <div>
 <a href="https://github.com/ThiagoAbreu01">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAbreu01&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoAbreu01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+# <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoAbreu01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Tecnologias que estudo atualmente:
