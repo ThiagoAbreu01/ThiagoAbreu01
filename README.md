@@ -8,7 +8,7 @@
 <div>
 <a href="https://github.com/ThiagoAbreu01">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAbreu01&layout=compact&langs_count=7&theme=dracula"/>
-# <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoAbreu01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+// <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoAbreu01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Tecnologias que estudo atualmente:
@@ -30,6 +30,7 @@
 
 <div>
 <a href = "mailto:thiagoabreuxd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/thiago-abreu-76a9a8200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://api.whatsapp.com/send?phone=5511972783009" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/thiago-abreu-76a9a8200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://api.whatsapp.com/send?phone=5511972783009" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/thiago_abreuxd/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
 </div>
