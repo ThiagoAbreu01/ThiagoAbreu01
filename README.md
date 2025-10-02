@@ -7,7 +7,7 @@
 
 <div>
 <a href="https://github.com/ThiagoAbreu01">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAbreu01&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAbreu01&layout=compact&langs_count=7&theme=dracula&exclude_repo=walleto_dart_api,walleto_flutter" />
 </div>
 
 ### Tecnologias que estudo atualmente:
